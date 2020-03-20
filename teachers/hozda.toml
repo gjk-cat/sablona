@@ -1,0 +1,19 @@
+jmeno = "Lukáš Hozda"         # má odpovídat jménu, které osoba používá v gitu, tj. `user.name`
+email = "luk.hozda@gmail.com" # odpovídá email, který osoba používá v gitu, tj. `user.email`
+username = "magnusi"          # pro kontexty, kde se nevyplatí používat email nebo jméno, např. odkazy
+# libovolný popisek, formátován jako markdown, může sloužit na extra informace
+# doporučuje se začínat na třetí úrovni nadpisů v zájmu přehlednosti seznamu vyučujících
+bio = """
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed lacinia hendrerit placerat.
+
+### Mauris posuere libero dui
+non feugiat nunc imperdiet non. Ut pharetra sodales mi,
+quis __sagittis__ velit __tristique__ tincidunt.[1]
+
+### Sed in tellus tincidunt, molestie libero vel,
+semper mi. Praesent lacus felis, `aliquam` in tempor vel,
+fringilla eget dui. Quisque *tristique* pulvinar fringilla.
+
+[1]: <https://www.lipsum.com/feed/html>
+"""

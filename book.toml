@@ -1,0 +1,10 @@
+[book]
+authors = ["Lukáš Hozda"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Šablona pro cat-prep"
+
+[preprocessor.links]
+[output.html]
+[preprocessor.cat-prep]
